@@ -23,7 +23,7 @@ Install all requirements with ``pip install -r requirements.txt``.
 
 ### 2. Download data
 
-The project `HEARec/data` only contains the interaction history of each dataset. As needed, you can download the corresponding multimodal data from these links [Baby]({https://drive.google.com/drive/folders/1Fk21441EO1l7wgOOARh2thu4FjgtKWQp), [Sports](https://drive.google.com/drive/folders/1iJtyDmgeYdZsvO5297dNafyPDya21e8D), and [Clothing](https://drive.google.com/drive/folders/1Suzbyc26BEPPLQJzT_5-EDz_wMf6r7u6).
+The project `HEARec/data` only contains the interaction history of each dataset. As needed, you can download the corresponding multimodal data from these links [Baby](https://drive.google.com/drive/folders/1Fk21441EO1l7wgOOARh2thu4FjgtKWQp), [Sports](https://drive.google.com/drive/folders/1iJtyDmgeYdZsvO5297dNafyPDya21e8D), and [Clothing](https://drive.google.com/drive/folders/1Suzbyc26BEPPLQJzT_5-EDz_wMf6r7u6).
 
 ### 3. Training on a local server using PyCharm.
 
