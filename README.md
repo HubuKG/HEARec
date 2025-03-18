@@ -5,7 +5,9 @@ This repo provides the source code & data of our paper HEARec: [Heterogeneous En
 ## Overview
 
 The structure of our model is available for viewing in the ``./img``.
-
+<p align="center">
+  <img src="HEARec/img/frame.png" width="900">
+</p>
 
 ### 1. Prerequisites
 
